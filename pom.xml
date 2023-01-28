@@ -83,11 +83,10 @@
 					<dependency>
 						<groupId>org.springframework</groupId>
 						<artifactId>springloaded</artifactId>
-						<version>1.2.1.RELEASE</version>
 					</dependency>
 				</dependencies>
 			</plugin>
-			
+
 			<plugin>
 			      <groupId>com.heroku.sdk</groupId>
 			      <artifactId>heroku-maven-plugin</artifactId>
